@@ -1,1 +1,1 @@
-# Weather-modeling
+# Weather Modeling Project
